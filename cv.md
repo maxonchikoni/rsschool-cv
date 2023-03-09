@@ -25,9 +25,11 @@ My name is Maksim Shabaev, I am 24 years old and I live in St. Petersburg. I got
 
 ## Code example:
 
+```
 function multiply(a, b){
-return a \* b
+return a * b
 }
+```
 
 ---
 
